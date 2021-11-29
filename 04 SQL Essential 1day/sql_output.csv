@@ -1,0 +1,810 @@
+,OrderID,CompanyName,ContactName,OrderDate,ShippedDate
+0,10248,Vins et alcools Chevalier,Paul Henriot,04/07/1996 0:00,16/07/1996 0:00
+1,10249,Toms Spezialitäten,Karin Josephs,05/07/1996 0:00,10/07/1996 0:00
+2,10250,Hanari Carnes,Mario Pontes,08/07/1996 0:00,12/07/1996 0:00
+3,10251,Victuailles en stock,Mary Saveley,08/07/1996 0:00,15/07/1996 0:00
+4,10252,Suprêmes délices,Pascale Cartrain,09/07/1996 0:00,11/07/1996 0:00
+5,10253,Hanari Carnes,Mario Pontes,10/07/1996 0:00,16/07/1996 0:00
+6,10254,Chop-suey Chinese,Yang Wang,11/07/1996 0:00,23/07/1996 0:00
+7,10255,Richter Supermarkt,Michael Holz,12/07/1996 0:00,15/07/1996 0:00
+8,10256,Wellington Importadora,Paula Parente,15/07/1996 0:00,17/07/1996 0:00
+9,10257,HILARION-Abastos,Carlos Hernández,16/07/1996 0:00,22/07/1996 0:00
+10,10258,Ernst Handel,Roland Mendel,17/07/1996 0:00,23/07/1996 0:00
+11,10259,Centro comercial Moctezuma,Juan,18/07/1996 0:00,25/07/1996 0:00
+12,10260,Ottilies Käseladen,Henriette Pfalzheim,19/07/1996 0:00,29/07/1996 0:00
+13,10261,Que Delícia,Bernardo Batista,19/07/1996 0:00,30/07/1996 0:00
+14,10262,Rattlesnake Canyon Grocery,Paula Wilson,22/07/1996 0:00,25/07/1996 0:00
+15,10263,Ernst Handel,Roland Mendel,23/07/1996 0:00,31/07/1996 0:00
+16,10264,Folk och fä HB,Maria Larsson,24/07/1996 0:00,23/08/1996 0:00
+17,10265,Blondesddsl père et fils,Frédérique Citeaux,25/07/1996 0:00,12/08/1996 0:00
+18,10266,Wartian Herkku,Pirkko Koskitalo,26/07/1996 0:00,31/07/1996 0:00
+19,10267,Frankenversand,Peter Franken,29/07/1996 0:00,06/08/1996 0:00
+20,10268,GROSELLA-Restaurante,Manuel Pereira,30/07/1996 0:00,02/08/1996 0:00
+21,10269,White Clover Markets,Karl Jablonski,31/07/1996 0:00,09/08/1996 0:00
+22,10270,Wartian Herkku,Pirkko Koskitalo,01/08/1996 0:00,02/08/1996 0:00
+23,10271,Split Rail Beer & Ale,Art Braunschweiger,01/08/1996 0:00,30/08/1996 0:00
+24,10272,Rattlesnake Canyon Grocery,Paula Wilson,02/08/1996 0:00,06/08/1996 0:00
+25,10273,QUICK-Stop,Horst Kloss,05/08/1996 0:00,12/08/1996 0:00
+26,10274,Vins et alcools Chevalier,Paul Henriot,06/08/1996 0:00,16/08/1996 0:00
+27,10275,Magazzini Alimentari Riuniti,Giovanni Rovelli,07/08/1996 0:00,09/08/1996 0:00
+28,10276,Tortuga Restaurante,Juan,08/08/1996 0:00,14/08/1996 0:00
+29,10277,Morgenstern Gesundkost,Alexander Feuer,09/08/1996 0:00,13/08/1996 0:00
+30,10278,Berglunds snabbköp,Christina Berglund,12/08/1996 0:00,16/08/1996 0:00
+31,10279,Lehmanns Marktstand,Renate Messner,13/08/1996 0:00,16/08/1996 0:00
+32,10280,Berglunds snabbköp,Christina Berglund,14/08/1996 0:00,12/09/1996 0:00
+33,10281,Romero y tomillo,Alejandra Camino,14/08/1996 0:00,21/08/1996 0:00
+34,10282,Romero y tomillo,Alejandra Camino,15/08/1996 0:00,21/08/1996 0:00
+35,10283,LILA-Supermercado,Carlos González,16/08/1996 0:00,23/08/1996 0:00
+36,10284,Lehmanns Marktstand,Renate Messner,19/08/1996 0:00,27/08/1996 0:00
+37,10285,QUICK-Stop,Horst Kloss,20/08/1996 0:00,26/08/1996 0:00
+38,10286,QUICK-Stop,Horst Kloss,21/08/1996 0:00,30/08/1996 0:00
+39,10287,Ricardo Adocicados,Janete Limeira,22/08/1996 0:00,28/08/1996 0:00
+40,10288,Reggiani Caseifici,Maurizio Moroni,23/08/1996 0:00,03/09/1996 0:00
+41,10289,B's Beverages,Victoria Ashworth,26/08/1996 0:00,28/08/1996 0:00
+42,10290,Comércio Mineiro,Pedro Afonso,27/08/1996 0:00,03/09/1996 0:00
+43,10291,Que Delícia,Bernardo Batista,27/08/1996 0:00,04/09/1996 0:00
+44,10292,Tradição Hipermercados,Anabela Domingues,28/08/1996 0:00,02/09/1996 0:00
+45,10293,Tortuga Restaurante,Juan,29/08/1996 0:00,11/09/1996 0:00
+46,10294,Rattlesnake Canyon Grocery,Paula Wilson,30/08/1996 0:00,05/09/1996 0:00
+47,10295,Vins et alcools Chevalier,Paul Henriot,02/09/1996 0:00,10/09/1996 0:00
+48,10296,LILA-Supermercado,Carlos González,03/09/1996 0:00,11/09/1996 0:00
+49,10297,Blondesddsl père et fils,Frédérique Citeaux,04/09/1996 0:00,10/09/1996 0:00
+50,10298,Hungry Owl All-Night Grocers,Patricia McKenna,05/09/1996 0:00,11/09/1996 0:00
+51,10299,Ricardo Adocicados,Janete Limeira,06/09/1996 0:00,13/09/1996 0:00
+52,10300,Magazzini Alimentari Riuniti,Giovanni Rovelli,09/09/1996 0:00,18/09/1996 0:00
+53,10301,Die Wandernde Kuh,Rita Müller,09/09/1996 0:00,17/09/1996 0:00
+54,10302,Suprêmes délices,Pascale Cartrain,10/09/1996 0:00,09/10/1996 0:00
+55,10303,Godos Cocina Típica,José Pedro Freyre,11/09/1996 0:00,18/09/1996 0:00
+56,10304,Tortuga Restaurante,Juan,12/09/1996 0:00,17/09/1996 0:00
+57,10305,Old World Delicatessen,Rene Phillips,13/09/1996 0:00,09/10/1996 0:00
+58,10306,Romero y tomillo,Alejandra Camino,16/09/1996 0:00,23/09/1996 0:00
+59,10307,Lonesome Pine Restaurant,Fran Wilson,17/09/1996 0:00,25/09/1996 0:00
+60,10308,Ana Trujillo Emparedados y helados,Juan,18/09/1996 0:00,24/09/1996 0:00
+61,10309,Hungry Owl All-Night Grocers,Patricia McKenna,19/09/1996 0:00,23/10/1996 0:00
+62,10310,The Big Cheese,Liz Nixon,20/09/1996 0:00,27/09/1996 0:00
+63,10311,Du monde entier,Janine Labrune,20/09/1996 0:00,26/09/1996 0:00
+64,10312,Die Wandernde Kuh,Rita Müller,23/09/1996 0:00,03/10/1996 0:00
+65,10313,QUICK-Stop,Horst Kloss,24/09/1996 0:00,04/10/1996 0:00
+66,10314,Rattlesnake Canyon Grocery,Paula Wilson,25/09/1996 0:00,04/10/1996 0:00
+67,10315,Island Trading,Helen Bennett,26/09/1996 0:00,03/10/1996 0:00
+68,10316,Rattlesnake Canyon Grocery,Paula Wilson,27/09/1996 0:00,08/10/1996 0:00
+69,10317,Lonesome Pine Restaurant,Fran Wilson,30/09/1996 0:00,10/10/1996 0:00
+70,10318,Island Trading,Helen Bennett,01/10/1996 0:00,04/10/1996 0:00
+71,10319,Tortuga Restaurante,Juan,02/10/1996 0:00,11/10/1996 0:00
+72,10320,Wartian Herkku,Pirkko Koskitalo,03/10/1996 0:00,18/10/1996 0:00
+73,10321,Island Trading,Helen Bennett,03/10/1996 0:00,11/10/1996 0:00
+74,10322,Pericles Comidas clásicas,Juan,04/10/1996 0:00,23/10/1996 0:00
+75,10323,Königlich Essen,Philip Cramer,07/10/1996 0:00,14/10/1996 0:00
+76,10324,Save-a-lot Markets,Jose Pavarotti,08/10/1996 0:00,10/10/1996 0:00
+77,10325,Königlich Essen,Philip Cramer,09/10/1996 0:00,14/10/1996 0:00
+78,10326,Bólido Comidas preparadas,Martín Sommer,10/10/1996 0:00,14/10/1996 0:00
+79,10327,Folk och fä HB,Maria Larsson,11/10/1996 0:00,14/10/1996 0:00
+80,10328,Furia Bacalhau e Frutos do Mar,Lino Rodriguez,14/10/1996 0:00,17/10/1996 0:00
+81,10329,Split Rail Beer & Ale,Art Braunschweiger,15/10/1996 0:00,23/10/1996 0:00
+82,10330,LILA-Supermercado,Carlos González,16/10/1996 0:00,28/10/1996 0:00
+83,10331,Bon app',Laurence Lebihan,16/10/1996 0:00,21/10/1996 0:00
+84,10332,Mère Paillarde,Jean Fresnière,17/10/1996 0:00,21/10/1996 0:00
+85,10333,Wartian Herkku,Pirkko Koskitalo,18/10/1996 0:00,25/10/1996 0:00
+86,10334,Victuailles en stock,Mary Saveley,21/10/1996 0:00,28/10/1996 0:00
+87,10335,Hungry Owl All-Night Grocers,Patricia McKenna,22/10/1996 0:00,24/10/1996 0:00
+88,10336,Princesa Isabel Vinhos,Isabel de Castro,23/10/1996 0:00,25/10/1996 0:00
+89,10337,Frankenversand,Peter Franken,24/10/1996 0:00,29/10/1996 0:00
+90,10338,Old World Delicatessen,Rene Phillips,25/10/1996 0:00,29/10/1996 0:00
+91,10339,Mère Paillarde,Jean Fresnière,28/10/1996 0:00,04/11/1996 0:00
+92,10340,Bon app',Laurence Lebihan,29/10/1996 0:00,08/11/1996 0:00
+93,10341,Simons bistro,Jytte Petersen,29/10/1996 0:00,05/11/1996 0:00
+94,10342,Frankenversand,Peter Franken,30/10/1996 0:00,04/11/1996 0:00
+95,10343,Lehmanns Marktstand,Renate Messner,31/10/1996 0:00,06/11/1996 0:00
+96,10344,White Clover Markets,Karl Jablonski,01/11/1996 0:00,05/11/1996 0:00
+97,10345,QUICK-Stop,Horst Kloss,04/11/1996 0:00,11/11/1996 0:00
+98,10346,Rattlesnake Canyon Grocery,Paula Wilson,05/11/1996 0:00,08/11/1996 0:00
+99,10347,Familia Arquibaldo,Aria Cruz,06/11/1996 0:00,08/11/1996 0:00
+100,10348,Die Wandernde Kuh,Rita Müller,07/11/1996 0:00,15/11/1996 0:00
+101,10349,Split Rail Beer & Ale,Art Braunschweiger,08/11/1996 0:00,15/11/1996 0:00
+102,10351,Ernst Handel,Roland Mendel,11/11/1996 0:00,20/11/1996 0:00
+103,10352,Furia Bacalhau e Frutos do Mar,Lino Rodriguez,12/11/1996 0:00,18/11/1996 0:00
+104,10353,Piccolo und mehr,Georg Pipps,13/11/1996 0:00,25/11/1996 0:00
+105,10354,Pericles Comidas clásicas,Juan,14/11/1996 0:00,20/11/1996 0:00
+106,10355,Around the Horn,Thomas Hardy,15/11/1996 0:00,20/11/1996 0:00
+107,10356,Die Wandernde Kuh,Rita Müller,18/11/1996 0:00,27/11/1996 0:00
+108,10357,LILA-Supermercado,Carlos González,19/11/1996 0:00,02/12/1996 0:00
+109,10359,Seven Seas Imports,Hari Kumar,21/11/1996 0:00,26/11/1996 0:00
+110,10360,Blondesddsl père et fils,Frédérique Citeaux,22/11/1996 0:00,02/12/1996 0:00
+111,10361,QUICK-Stop,Horst Kloss,22/11/1996 0:00,03/12/1996 0:00
+112,10362,Bon app',Laurence Lebihan,25/11/1996 0:00,28/11/1996 0:00
+113,10363,Drachenblut Delikatessen,Sven Ottlieb,26/11/1996 0:00,04/12/1996 0:00
+114,10364,Eastern Connection,Ann Devon,26/11/1996 0:00,04/12/1996 0:00
+115,10365,Antonio Moreno Taquería,Juan,27/11/1996 0:00,02/12/1996 0:00
+116,10366,Galería del gastrónomo,Eduardo Saavedra,28/11/1996 0:00,30/12/1996 0:00
+117,10367,Vaffeljernet,Palle Ibsen,28/11/1996 0:00,02/12/1996 0:00
+118,10368,Ernst Handel,Roland Mendel,29/11/1996 0:00,02/12/1996 0:00
+119,10369,Split Rail Beer & Ale,Art Braunschweiger,02/12/1996 0:00,09/12/1996 0:00
+120,10370,Chop-suey Chinese,Yang Wang,03/12/1996 0:00,27/12/1996 0:00
+121,10372,Queen Cozinha,Lúcia Carvalho,04/12/1996 0:00,09/12/1996 0:00
+122,10373,Hungry Owl All-Night Grocers,Patricia McKenna,05/12/1996 0:00,11/12/1996 0:00
+123,10375,Hungry Coyote Import Store,Yoshi Latimer,06/12/1996 0:00,09/12/1996 0:00
+124,10376,Mère Paillarde,Jean Fresnière,09/12/1996 0:00,13/12/1996 0:00
+125,10377,Seven Seas Imports,Hari Kumar,09/12/1996 0:00,13/12/1996 0:00
+126,10378,Folk och fä HB,Maria Larsson,10/12/1996 0:00,19/12/1996 0:00
+127,10379,Que Delícia,Bernardo Batista,11/12/1996 0:00,13/12/1996 0:00
+128,10380,Hungry Owl All-Night Grocers,Patricia McKenna,12/12/1996 0:00,16/01/1997 0:00
+129,10381,LILA-Supermercado,Carlos González,12/12/1996 0:00,13/12/1996 0:00
+130,10382,Ernst Handel,Roland Mendel,13/12/1996 0:00,16/12/1996 0:00
+131,10383,Around the Horn,Thomas Hardy,16/12/1996 0:00,18/12/1996 0:00
+132,10384,Berglunds snabbköp,Christina Berglund,16/12/1996 0:00,20/12/1996 0:00
+133,10385,Split Rail Beer & Ale,Art Braunschweiger,17/12/1996 0:00,23/12/1996 0:00
+134,10386,Familia Arquibaldo,Aria Cruz,18/12/1996 0:00,25/12/1996 0:00
+135,10387,Santé Gourmet,Jonas Bergulfsen,18/12/1996 0:00,20/12/1996 0:00
+136,10388,Seven Seas Imports,Hari Kumar,19/12/1996 0:00,20/12/1996 0:00
+137,10389,Bottom-Dollar Markets,Elizabeth Lincoln,20/12/1996 0:00,24/12/1996 0:00
+138,10390,Ernst Handel,Roland Mendel,23/12/1996 0:00,26/12/1996 0:00
+139,10391,Drachenblut Delikatessen,Sven Ottlieb,23/12/1996 0:00,31/12/1996 0:00
+140,10392,Piccolo und mehr,Georg Pipps,24/12/1996 0:00,01/01/1997 0:00
+141,10393,Save-a-lot Markets,Jose Pavarotti,25/12/1996 0:00,03/01/1997 0:00
+142,10394,Hungry Coyote Import Store,Yoshi Latimer,25/12/1996 0:00,03/01/1997 0:00
+143,10395,HILARION-Abastos,Carlos Hernández,26/12/1996 0:00,03/01/1997 0:00
+144,10396,Frankenversand,Peter Franken,27/12/1996 0:00,06/01/1997 0:00
+145,10397,Princesa Isabel Vinhos,Isabel de Castro,27/12/1996 0:00,02/01/1997 0:00
+146,10398,Save-a-lot Markets,Jose Pavarotti,30/12/1996 0:00,09/01/1997 0:00
+147,10399,Vaffeljernet,Palle Ibsen,31/12/1996 0:00,08/01/1997 0:00
+148,10400,Eastern Connection,Ann Devon,01/01/1997 0:00,16/01/1997 0:00
+149,10401,Rattlesnake Canyon Grocery,Paula Wilson,01/01/1997 0:00,10/01/1997 0:00
+150,10402,Ernst Handel,Roland Mendel,02/01/1997 0:00,10/01/1997 0:00
+151,10403,Ernst Handel,Roland Mendel,03/01/1997 0:00,09/01/1997 0:00
+152,10404,Magazzini Alimentari Riuniti,Giovanni Rovelli,03/01/1997 0:00,08/01/1997 0:00
+153,10405,LINO-Delicateses,Felipe Izquierdo,06/01/1997 0:00,22/01/1997 0:00
+154,10406,Queen Cozinha,Lúcia Carvalho,07/01/1997 0:00,13/01/1997 0:00
+155,10407,Ottilies Käseladen,Henriette Pfalzheim,07/01/1997 0:00,30/01/1997 0:00
+156,10408,Folies gourmandes,Martine Rancé,08/01/1997 0:00,14/01/1997 0:00
+157,10409,Océano Atlántico Ltda.,Yvonne Moncada,09/01/1997 0:00,14/01/1997 0:00
+158,10410,Bottom-Dollar Markets,Elizabeth Lincoln,10/01/1997 0:00,15/01/1997 0:00
+159,10411,Bottom-Dollar Markets,Elizabeth Lincoln,10/01/1997 0:00,21/01/1997 0:00
+160,10412,Wartian Herkku,Pirkko Koskitalo,13/01/1997 0:00,15/01/1997 0:00
+161,10414,Familia Arquibaldo,Aria Cruz,14/01/1997 0:00,17/01/1997 0:00
+162,10415,Hungry Coyote Import Store,Yoshi Latimer,15/01/1997 0:00,24/01/1997 0:00
+163,10416,Wartian Herkku,Pirkko Koskitalo,16/01/1997 0:00,27/01/1997 0:00
+164,10417,Simons bistro,Jytte Petersen,16/01/1997 0:00,28/01/1997 0:00
+165,10418,QUICK-Stop,Horst Kloss,17/01/1997 0:00,24/01/1997 0:00
+166,10419,Richter Supermarkt,Michael Holz,20/01/1997 0:00,30/01/1997 0:00
+167,10420,Wellington Importadora,Paula Parente,21/01/1997 0:00,27/01/1997 0:00
+168,10421,Que Delícia,Bernardo Batista,21/01/1997 0:00,27/01/1997 0:00
+169,10422,Franchi S.p.A.,Paolo Accorti,22/01/1997 0:00,31/01/1997 0:00
+170,10423,Gourmet Lanchonetes,André Fonseca,23/01/1997 0:00,24/02/1997 0:00
+171,10424,Mère Paillarde,Jean Fresnière,23/01/1997 0:00,27/01/1997 0:00
+172,10426,Galería del gastrónomo,Eduardo Saavedra,27/01/1997 0:00,06/02/1997 0:00
+173,10427,Piccolo und mehr,Georg Pipps,27/01/1997 0:00,03/03/1997 0:00
+174,10428,Reggiani Caseifici,Maurizio Moroni,28/01/1997 0:00,04/02/1997 0:00
+175,10429,Hungry Owl All-Night Grocers,Patricia McKenna,29/01/1997 0:00,07/02/1997 0:00
+176,10430,Ernst Handel,Roland Mendel,30/01/1997 0:00,03/02/1997 0:00
+177,10431,Bottom-Dollar Markets,Elizabeth Lincoln,30/01/1997 0:00,07/02/1997 0:00
+178,10432,Split Rail Beer & Ale,Art Braunschweiger,31/01/1997 0:00,07/02/1997 0:00
+179,10433,Princesa Isabel Vinhos,Isabel de Castro,03/02/1997 0:00,04/03/1997 0:00
+180,10434,Folk och fä HB,Maria Larsson,03/02/1997 0:00,13/02/1997 0:00
+181,10435,Consolidated Holdings,Elizabeth Brown,04/02/1997 0:00,07/02/1997 0:00
+182,10436,Blondesddsl père et fils,Frédérique Citeaux,05/02/1997 0:00,11/02/1997 0:00
+183,10437,Wartian Herkku,Pirkko Koskitalo,05/02/1997 0:00,12/02/1997 0:00
+184,10438,Toms Spezialitäten,Karin Josephs,06/02/1997 0:00,14/02/1997 0:00
+185,10439,Mère Paillarde,Jean Fresnière,07/02/1997 0:00,10/02/1997 0:00
+186,10440,Save-a-lot Markets,Jose Pavarotti,10/02/1997 0:00,28/02/1997 0:00
+187,10441,Old World Delicatessen,Rene Phillips,10/02/1997 0:00,14/03/1997 0:00
+188,10442,Ernst Handel,Roland Mendel,11/02/1997 0:00,18/02/1997 0:00
+189,10443,Reggiani Caseifici,Maurizio Moroni,12/02/1997 0:00,14/02/1997 0:00
+190,10444,Berglunds snabbköp,Christina Berglund,12/02/1997 0:00,21/02/1997 0:00
+191,10445,Berglunds snabbköp,Christina Berglund,13/02/1997 0:00,20/02/1997 0:00
+192,10446,Toms Spezialitäten,Karin Josephs,14/02/1997 0:00,19/02/1997 0:00
+193,10447,Ricardo Adocicados,Janete Limeira,14/02/1997 0:00,07/03/1997 0:00
+194,10448,Rancho grande,Sergio Gutiérrez,17/02/1997 0:00,24/02/1997 0:00
+195,10449,Blondesddsl père et fils,Frédérique Citeaux,18/02/1997 0:00,27/02/1997 0:00
+196,10450,Victuailles en stock,Mary Saveley,19/02/1997 0:00,11/03/1997 0:00
+197,10451,QUICK-Stop,Horst Kloss,19/02/1997 0:00,12/03/1997 0:00
+198,10452,Save-a-lot Markets,Jose Pavarotti,20/02/1997 0:00,26/02/1997 0:00
+199,10453,Around the Horn,Thomas Hardy,21/02/1997 0:00,26/02/1997 0:00
+200,10455,Wartian Herkku,Pirkko Koskitalo,24/02/1997 0:00,03/03/1997 0:00
+201,10456,Königlich Essen,Philip Cramer,25/02/1997 0:00,28/02/1997 0:00
+202,10457,Königlich Essen,Philip Cramer,25/02/1997 0:00,03/03/1997 0:00
+203,10458,Suprêmes délices,Pascale Cartrain,26/02/1997 0:00,04/03/1997 0:00
+204,10459,Victuailles en stock,Mary Saveley,27/02/1997 0:00,28/02/1997 0:00
+205,10460,Folk och fä HB,Maria Larsson,28/02/1997 0:00,03/03/1997 0:00
+206,10461,LILA-Supermercado,Carlos González,28/02/1997 0:00,05/03/1997 0:00
+207,10462,Consolidated Holdings,Elizabeth Brown,03/03/1997 0:00,18/03/1997 0:00
+208,10463,Suprêmes délices,Pascale Cartrain,04/03/1997 0:00,06/03/1997 0:00
+209,10464,Furia Bacalhau e Frutos do Mar,Lino Rodriguez,04/03/1997 0:00,14/03/1997 0:00
+210,10465,Vaffeljernet,Palle Ibsen,05/03/1997 0:00,14/03/1997 0:00
+211,10466,Comércio Mineiro,Pedro Afonso,06/03/1997 0:00,13/03/1997 0:00
+212,10467,Magazzini Alimentari Riuniti,Giovanni Rovelli,06/03/1997 0:00,11/03/1997 0:00
+213,10468,Königlich Essen,Philip Cramer,07/03/1997 0:00,12/03/1997 0:00
+214,10469,White Clover Markets,Karl Jablonski,10/03/1997 0:00,14/03/1997 0:00
+215,10470,Bon app',Laurence Lebihan,11/03/1997 0:00,14/03/1997 0:00
+216,10471,B's Beverages,Victoria Ashworth,11/03/1997 0:00,18/03/1997 0:00
+217,10472,Seven Seas Imports,Hari Kumar,12/03/1997 0:00,19/03/1997 0:00
+218,10473,Island Trading,Helen Bennett,13/03/1997 0:00,21/03/1997 0:00
+219,10474,Pericles Comidas clásicas,Juan,13/03/1997 0:00,21/03/1997 0:00
+220,10475,Suprêmes délices,Pascale Cartrain,14/03/1997 0:00,04/04/1997 0:00
+221,10476,HILARION-Abastos,Carlos Hernández,17/03/1997 0:00,24/03/1997 0:00
+222,10477,Princesa Isabel Vinhos,Isabel de Castro,17/03/1997 0:00,25/03/1997 0:00
+223,10478,Victuailles en stock,Mary Saveley,18/03/1997 0:00,26/03/1997 0:00
+224,10479,Rattlesnake Canyon Grocery,Paula Wilson,19/03/1997 0:00,21/03/1997 0:00
+225,10480,Folies gourmandes,Martine Rancé,20/03/1997 0:00,24/03/1997 0:00
+226,10481,Ricardo Adocicados,Janete Limeira,20/03/1997 0:00,25/03/1997 0:00
+227,10482,Lazy K Kountry Store,John Steel,21/03/1997 0:00,10/04/1997 0:00
+228,10483,White Clover Markets,Karl Jablonski,24/03/1997 0:00,25/04/1997 0:00
+229,10484,B's Beverages,Victoria Ashworth,24/03/1997 0:00,01/04/1997 0:00
+230,10485,LINO-Delicateses,Felipe Izquierdo,25/03/1997 0:00,31/03/1997 0:00
+231,10486,HILARION-Abastos,Carlos Hernández,26/03/1997 0:00,02/04/1997 0:00
+232,10487,Queen Cozinha,Lúcia Carvalho,26/03/1997 0:00,28/03/1997 0:00
+233,10488,Frankenversand,Peter Franken,27/03/1997 0:00,02/04/1997 0:00
+234,10489,Piccolo und mehr,Georg Pipps,28/03/1997 0:00,09/04/1997 0:00
+235,10490,HILARION-Abastos,Carlos Hernández,31/03/1997 0:00,03/04/1997 0:00
+236,10491,Furia Bacalhau e Frutos do Mar,Lino Rodriguez,31/03/1997 0:00,08/04/1997 0:00
+237,10492,Bottom-Dollar Markets,Elizabeth Lincoln,01/04/1997 0:00,11/04/1997 0:00
+238,10494,Comércio Mineiro,Pedro Afonso,02/04/1997 0:00,09/04/1997 0:00
+239,10495,Laughing Bacchus Wine Cellars,Yoshi Tannamuri,03/04/1997 0:00,11/04/1997 0:00
+240,10496,Tradição Hipermercados,Anabela Domingues,04/04/1997 0:00,07/04/1997 0:00
+241,10497,Lehmanns Marktstand,Renate Messner,04/04/1997 0:00,07/04/1997 0:00
+242,10498,HILARION-Abastos,Carlos Hernández,07/04/1997 0:00,11/04/1997 0:00
+243,10499,LILA-Supermercado,Carlos González,08/04/1997 0:00,16/04/1997 0:00
+244,10501,Blauer See Delikatessen,Hanna Moos,09/04/1997 0:00,16/04/1997 0:00
+245,10502,Pericles Comidas clásicas,Juan,10/04/1997 0:00,29/04/1997 0:00
+246,10503,Hungry Owl All-Night Grocers,Patricia McKenna,11/04/1997 0:00,16/04/1997 0:00
+247,10504,White Clover Markets,Karl Jablonski,11/04/1997 0:00,18/04/1997 0:00
+248,10505,Mère Paillarde,Jean Fresnière,14/04/1997 0:00,21/04/1997 0:00
+249,10506,Königlich Essen,Philip Cramer,15/04/1997 0:00,02/05/1997 0:00
+250,10507,Antonio Moreno Taquería,Juan,15/04/1997 0:00,22/04/1997 0:00
+251,10508,Ottilies Käseladen,Henriette Pfalzheim,16/04/1997 0:00,13/05/1997 0:00
+252,10509,Blauer See Delikatessen,Hanna Moos,17/04/1997 0:00,29/04/1997 0:00
+253,10510,Save-a-lot Markets,Jose Pavarotti,18/04/1997 0:00,28/04/1997 0:00
+254,10511,Bon app',Laurence Lebihan,18/04/1997 0:00,21/04/1997 0:00
+255,10512,Familia Arquibaldo,Aria Cruz,21/04/1997 0:00,24/04/1997 0:00
+256,10513,Die Wandernde Kuh,Rita Müller,22/04/1997 0:00,28/04/1997 0:00
+257,10514,Ernst Handel,Roland Mendel,22/04/1997 0:00,16/05/1997 0:00
+258,10515,QUICK-Stop,Horst Kloss,23/04/1997 0:00,23/05/1997 0:00
+259,10516,Hungry Owl All-Night Grocers,Patricia McKenna,24/04/1997 0:00,01/05/1997 0:00
+260,10517,North/South,Simon Crowther,24/04/1997 0:00,29/04/1997 0:00
+261,10518,Tortuga Restaurante,Juan,25/04/1997 0:00,05/05/1997 0:00
+262,10519,Chop-suey Chinese,Yang Wang,28/04/1997 0:00,01/05/1997 0:00
+263,10520,Santé Gourmet,Jonas Bergulfsen,29/04/1997 0:00,01/05/1997 0:00
+264,10521,Cactus Comidas para llevar,Patricio Simpson,29/04/1997 0:00,02/05/1997 0:00
+265,10522,Lehmanns Marktstand,Renate Messner,30/04/1997 0:00,06/05/1997 0:00
+266,10523,Seven Seas Imports,Hari Kumar,01/05/1997 0:00,30/05/1997 0:00
+267,10524,Berglunds snabbköp,Christina Berglund,01/05/1997 0:00,07/05/1997 0:00
+268,10525,Bon app',Laurence Lebihan,02/05/1997 0:00,23/05/1997 0:00
+269,10526,Wartian Herkku,Pirkko Koskitalo,05/05/1997 0:00,15/05/1997 0:00
+270,10527,QUICK-Stop,Horst Kloss,05/05/1997 0:00,07/05/1997 0:00
+271,10528,Great Lakes Food Market,Howard Snyder,06/05/1997 0:00,09/05/1997 0:00
+272,10529,Maison Dewey,Catherine Dewey,07/05/1997 0:00,09/05/1997 0:00
+273,10530,Piccolo und mehr,Georg Pipps,08/05/1997 0:00,12/05/1997 0:00
+274,10531,Océano Atlántico Ltda.,Yvonne Moncada,08/05/1997 0:00,19/05/1997 0:00
+275,10532,Eastern Connection,Ann Devon,09/05/1997 0:00,12/05/1997 0:00
+276,10533,Folk och fä HB,Maria Larsson,12/05/1997 0:00,22/05/1997 0:00
+277,10534,Lehmanns Marktstand,Renate Messner,12/05/1997 0:00,14/05/1997 0:00
+278,10535,Antonio Moreno Taquería,Juan,13/05/1997 0:00,21/05/1997 0:00
+279,10536,Lehmanns Marktstand,Renate Messner,14/05/1997 0:00,06/06/1997 0:00
+280,10537,Richter Supermarkt,Michael Holz,14/05/1997 0:00,19/05/1997 0:00
+281,10538,B's Beverages,Victoria Ashworth,15/05/1997 0:00,16/05/1997 0:00
+282,10539,B's Beverages,Victoria Ashworth,16/05/1997 0:00,23/05/1997 0:00
+283,10540,QUICK-Stop,Horst Kloss,19/05/1997 0:00,13/06/1997 0:00
+284,10541,Hanari Carnes,Mario Pontes,19/05/1997 0:00,29/05/1997 0:00
+285,10542,Königlich Essen,Philip Cramer,20/05/1997 0:00,26/05/1997 0:00
+286,10543,LILA-Supermercado,Carlos González,21/05/1997 0:00,23/05/1997 0:00
+287,10544,Lonesome Pine Restaurant,Fran Wilson,21/05/1997 0:00,30/05/1997 0:00
+288,10545,Lazy K Kountry Store,John Steel,22/05/1997 0:00,26/06/1997 0:00
+289,10546,Victuailles en stock,Mary Saveley,23/05/1997 0:00,27/05/1997 0:00
+290,10547,Seven Seas Imports,Hari Kumar,23/05/1997 0:00,02/06/1997 0:00
+291,10548,Toms Spezialitäten,Karin Josephs,26/05/1997 0:00,02/06/1997 0:00
+292,10549,QUICK-Stop,Horst Kloss,27/05/1997 0:00,30/05/1997 0:00
+293,10550,Godos Cocina Típica,José Pedro Freyre,28/05/1997 0:00,06/06/1997 0:00
+294,10551,Furia Bacalhau e Frutos do Mar,Lino Rodriguez,28/05/1997 0:00,06/06/1997 0:00
+295,10552,HILARION-Abastos,Carlos Hernández,29/05/1997 0:00,05/06/1997 0:00
+296,10553,Wartian Herkku,Pirkko Koskitalo,30/05/1997 0:00,03/06/1997 0:00
+297,10554,Ottilies Käseladen,Henriette Pfalzheim,30/05/1997 0:00,05/06/1997 0:00
+298,10555,Save-a-lot Markets,Jose Pavarotti,02/06/1997 0:00,04/06/1997 0:00
+299,10556,Simons bistro,Jytte Petersen,03/06/1997 0:00,13/06/1997 0:00
+300,10557,Lehmanns Marktstand,Renate Messner,03/06/1997 0:00,06/06/1997 0:00
+301,10558,Around the Horn,Thomas Hardy,04/06/1997 0:00,10/06/1997 0:00
+302,10559,Blondesddsl père et fils,Frédérique Citeaux,05/06/1997 0:00,13/06/1997 0:00
+303,10560,Frankenversand,Peter Franken,06/06/1997 0:00,09/06/1997 0:00
+304,10561,Folk och fä HB,Maria Larsson,06/06/1997 0:00,09/06/1997 0:00
+305,10562,Reggiani Caseifici,Maurizio Moroni,09/06/1997 0:00,12/06/1997 0:00
+306,10563,Ricardo Adocicados,Janete Limeira,10/06/1997 0:00,24/06/1997 0:00
+307,10564,Rattlesnake Canyon Grocery,Paula Wilson,10/06/1997 0:00,16/06/1997 0:00
+308,10565,Mère Paillarde,Jean Fresnière,11/06/1997 0:00,18/06/1997 0:00
+309,10566,Blondesddsl père et fils,Frédérique Citeaux,12/06/1997 0:00,18/06/1997 0:00
+310,10567,Hungry Owl All-Night Grocers,Patricia McKenna,12/06/1997 0:00,17/06/1997 0:00
+311,10568,Galería del gastrónomo,Eduardo Saavedra,13/06/1997 0:00,09/07/1997 0:00
+312,10569,Rattlesnake Canyon Grocery,Paula Wilson,16/06/1997 0:00,11/07/1997 0:00
+313,10570,Mère Paillarde,Jean Fresnière,17/06/1997 0:00,19/06/1997 0:00
+314,10571,Ernst Handel,Roland Mendel,17/06/1997 0:00,04/07/1997 0:00
+315,10572,Berglunds snabbköp,Christina Berglund,18/06/1997 0:00,25/06/1997 0:00
+316,10573,Antonio Moreno Taquería,Juan,19/06/1997 0:00,20/06/1997 0:00
+317,10574,Trail's Head Gourmet Provisioners,Helvetius Nagy,19/06/1997 0:00,30/06/1997 0:00
+318,10575,Morgenstern Gesundkost,Alexander Feuer,20/06/1997 0:00,30/06/1997 0:00
+319,10576,Tortuga Restaurante,Juan,23/06/1997 0:00,30/06/1997 0:00
+320,10577,Trail's Head Gourmet Provisioners,Helvetius Nagy,23/06/1997 0:00,30/06/1997 0:00
+321,10578,B's Beverages,Victoria Ashworth,24/06/1997 0:00,25/07/1997 0:00
+322,10579,Let's Stop N Shop,Jaime Yorres,25/06/1997 0:00,04/07/1997 0:00
+323,10580,Ottilies Käseladen,Henriette Pfalzheim,26/06/1997 0:00,01/07/1997 0:00
+324,10581,Familia Arquibaldo,Aria Cruz,26/06/1997 0:00,02/07/1997 0:00
+325,10582,Blauer See Delikatessen,Hanna Moos,27/06/1997 0:00,14/07/1997 0:00
+326,10583,Wartian Herkku,Pirkko Koskitalo,30/06/1997 0:00,04/07/1997 0:00
+327,10584,Blondesddsl père et fils,Frédérique Citeaux,30/06/1997 0:00,04/07/1997 0:00
+328,10585,Wellington Importadora,Paula Parente,01/07/1997 0:00,10/07/1997 0:00
+329,10586,Reggiani Caseifici,Maurizio Moroni,02/07/1997 0:00,09/07/1997 0:00
+330,10587,Que Delícia,Bernardo Batista,02/07/1997 0:00,09/07/1997 0:00
+331,10588,QUICK-Stop,Horst Kloss,03/07/1997 0:00,10/07/1997 0:00
+332,10589,Great Lakes Food Market,Howard Snyder,04/07/1997 0:00,14/07/1997 0:00
+333,10590,Mère Paillarde,Jean Fresnière,07/07/1997 0:00,14/07/1997 0:00
+334,10591,Vaffeljernet,Palle Ibsen,07/07/1997 0:00,16/07/1997 0:00
+335,10592,Lehmanns Marktstand,Renate Messner,08/07/1997 0:00,16/07/1997 0:00
+336,10593,Lehmanns Marktstand,Renate Messner,09/07/1997 0:00,13/08/1997 0:00
+337,10594,Old World Delicatessen,Rene Phillips,09/07/1997 0:00,16/07/1997 0:00
+338,10595,Ernst Handel,Roland Mendel,10/07/1997 0:00,14/07/1997 0:00
+339,10596,White Clover Markets,Karl Jablonski,11/07/1997 0:00,12/08/1997 0:00
+340,10597,Piccolo und mehr,Georg Pipps,11/07/1997 0:00,18/07/1997 0:00
+341,10598,Rattlesnake Canyon Grocery,Paula Wilson,14/07/1997 0:00,18/07/1997 0:00
+342,10599,B's Beverages,Victoria Ashworth,15/07/1997 0:00,21/07/1997 0:00
+343,10600,Hungry Coyote Import Store,Yoshi Latimer,16/07/1997 0:00,21/07/1997 0:00
+344,10601,HILARION-Abastos,Carlos Hernández,16/07/1997 0:00,22/07/1997 0:00
+345,10602,Vaffeljernet,Palle Ibsen,17/07/1997 0:00,22/07/1997 0:00
+346,10603,Save-a-lot Markets,Jose Pavarotti,18/07/1997 0:00,08/08/1997 0:00
+347,10604,Furia Bacalhau e Frutos do Mar,Lino Rodriguez,18/07/1997 0:00,29/07/1997 0:00
+348,10605,Mère Paillarde,Jean Fresnière,21/07/1997 0:00,29/07/1997 0:00
+349,10606,Tradição Hipermercados,Anabela Domingues,22/07/1997 0:00,31/07/1997 0:00
+350,10607,Save-a-lot Markets,Jose Pavarotti,22/07/1997 0:00,25/07/1997 0:00
+351,10608,Toms Spezialitäten,Karin Josephs,23/07/1997 0:00,01/08/1997 0:00
+352,10609,Du monde entier,Janine Labrune,24/07/1997 0:00,30/07/1997 0:00
+353,10612,Save-a-lot Markets,Jose Pavarotti,28/07/1997 0:00,01/08/1997 0:00
+354,10613,HILARION-Abastos,Carlos Hernández,29/07/1997 0:00,01/08/1997 0:00
+355,10614,Blauer See Delikatessen,Hanna Moos,29/07/1997 0:00,01/08/1997 0:00
+356,10615,Wilman Kala,Matti Karttunen,30/07/1997 0:00,06/08/1997 0:00
+357,10616,Great Lakes Food Market,Howard Snyder,31/07/1997 0:00,05/08/1997 0:00
+358,10617,Great Lakes Food Market,Howard Snyder,31/07/1997 0:00,04/08/1997 0:00
+359,10618,Mère Paillarde,Jean Fresnière,01/08/1997 0:00,08/08/1997 0:00
+360,10619,Mère Paillarde,Jean Fresnière,04/08/1997 0:00,07/08/1997 0:00
+361,10620,Laughing Bacchus Wine Cellars,Yoshi Tannamuri,05/08/1997 0:00,14/08/1997 0:00
+362,10621,Island Trading,Helen Bennett,05/08/1997 0:00,11/08/1997 0:00
+363,10622,Ricardo Adocicados,Janete Limeira,06/08/1997 0:00,11/08/1997 0:00
+364,10623,Frankenversand,Peter Franken,07/08/1997 0:00,12/08/1997 0:00
+365,10624,The Cracker Box,Liu Wong,07/08/1997 0:00,19/08/1997 0:00
+366,10625,Ana Trujillo Emparedados y helados,Juan,08/08/1997 0:00,14/08/1997 0:00
+367,10626,Berglunds snabbköp,Christina Berglund,11/08/1997 0:00,20/08/1997 0:00
+368,10627,Save-a-lot Markets,Jose Pavarotti,11/08/1997 0:00,21/08/1997 0:00
+369,10628,Blondesddsl père et fils,Frédérique Citeaux,12/08/1997 0:00,20/08/1997 0:00
+370,10629,Godos Cocina Típica,José Pedro Freyre,12/08/1997 0:00,20/08/1997 0:00
+371,10630,Königlich Essen,Philip Cramer,13/08/1997 0:00,19/08/1997 0:00
+372,10632,Die Wandernde Kuh,Rita Müller,14/08/1997 0:00,19/08/1997 0:00
+373,10633,Ernst Handel,Roland Mendel,15/08/1997 0:00,18/08/1997 0:00
+374,10634,Folies gourmandes,Martine Rancé,15/08/1997 0:00,21/08/1997 0:00
+375,10635,Magazzini Alimentari Riuniti,Giovanni Rovelli,18/08/1997 0:00,21/08/1997 0:00
+376,10636,Wartian Herkku,Pirkko Koskitalo,19/08/1997 0:00,26/08/1997 0:00
+377,10637,Queen Cozinha,Lúcia Carvalho,19/08/1997 0:00,26/08/1997 0:00
+378,10638,LINO-Delicateses,Felipe Izquierdo,20/08/1997 0:00,01/09/1997 0:00
+379,10639,Santé Gourmet,Jonas Bergulfsen,20/08/1997 0:00,27/08/1997 0:00
+380,10640,Die Wandernde Kuh,Rita Müller,21/08/1997 0:00,28/08/1997 0:00
+381,10641,HILARION-Abastos,Carlos Hernández,22/08/1997 0:00,26/08/1997 0:00
+382,10642,Simons bistro,Jytte Petersen,22/08/1997 0:00,05/09/1997 0:00
+383,10643,Alfreds Futterkiste,Maria Anders,25/08/1997 0:00,02/09/1997 0:00
+384,10644,Wellington Importadora,Paula Parente,25/08/1997 0:00,01/09/1997 0:00
+385,10645,Hanari Carnes,Mario Pontes,26/08/1997 0:00,02/09/1997 0:00
+386,10646,Hungry Owl All-Night Grocers,Patricia McKenna,27/08/1997 0:00,03/09/1997 0:00
+387,10647,Que Delícia,Bernardo Batista,27/08/1997 0:00,03/09/1997 0:00
+388,10648,Ricardo Adocicados,Janete Limeira,28/08/1997 0:00,09/09/1997 0:00
+389,10649,Maison Dewey,Catherine Dewey,28/08/1997 0:00,29/08/1997 0:00
+390,10650,Familia Arquibaldo,Aria Cruz,29/08/1997 0:00,03/09/1997 0:00
+391,10651,Die Wandernde Kuh,Rita Müller,01/09/1997 0:00,11/09/1997 0:00
+392,10652,Gourmet Lanchonetes,André Fonseca,01/09/1997 0:00,08/09/1997 0:00
+393,10653,Frankenversand,Peter Franken,02/09/1997 0:00,19/09/1997 0:00
+394,10654,Berglunds snabbköp,Christina Berglund,02/09/1997 0:00,11/09/1997 0:00
+395,10655,Reggiani Caseifici,Maurizio Moroni,03/09/1997 0:00,11/09/1997 0:00
+396,10656,Great Lakes Food Market,Howard Snyder,04/09/1997 0:00,10/09/1997 0:00
+397,10657,Save-a-lot Markets,Jose Pavarotti,04/09/1997 0:00,15/09/1997 0:00
+398,10658,QUICK-Stop,Horst Kloss,05/09/1997 0:00,08/09/1997 0:00
+399,10659,Queen Cozinha,Lúcia Carvalho,05/09/1997 0:00,10/09/1997 0:00
+400,10660,Hungry Coyote Import Store,Yoshi Latimer,08/09/1997 0:00,15/10/1997 0:00
+401,10661,Hungry Owl All-Night Grocers,Patricia McKenna,09/09/1997 0:00,15/09/1997 0:00
+402,10662,Lonesome Pine Restaurant,Fran Wilson,09/09/1997 0:00,18/09/1997 0:00
+403,10663,Bon app',Laurence Lebihan,10/09/1997 0:00,03/10/1997 0:00
+404,10664,Furia Bacalhau e Frutos do Mar,Lino Rodriguez,10/09/1997 0:00,19/09/1997 0:00
+405,10665,Lonesome Pine Restaurant,Fran Wilson,11/09/1997 0:00,17/09/1997 0:00
+406,10666,Richter Supermarkt,Michael Holz,12/09/1997 0:00,22/09/1997 0:00
+407,10667,Ernst Handel,Roland Mendel,12/09/1997 0:00,19/09/1997 0:00
+408,10668,Die Wandernde Kuh,Rita Müller,15/09/1997 0:00,23/09/1997 0:00
+409,10669,Simons bistro,Jytte Petersen,15/09/1997 0:00,22/09/1997 0:00
+410,10670,Frankenversand,Peter Franken,16/09/1997 0:00,18/09/1997 0:00
+411,10671,France restauration,Carine Schmitt,17/09/1997 0:00,24/09/1997 0:00
+412,10672,Berglunds snabbköp,Christina Berglund,17/09/1997 0:00,26/09/1997 0:00
+413,10673,Wilman Kala,Matti Karttunen,18/09/1997 0:00,19/09/1997 0:00
+414,10674,Island Trading,Helen Bennett,18/09/1997 0:00,30/09/1997 0:00
+415,10675,Frankenversand,Peter Franken,19/09/1997 0:00,23/09/1997 0:00
+416,10676,Tortuga Restaurante,Juan,22/09/1997 0:00,29/09/1997 0:00
+417,10677,Antonio Moreno Taquería,Juan,22/09/1997 0:00,26/09/1997 0:00
+418,10678,Save-a-lot Markets,Jose Pavarotti,23/09/1997 0:00,16/10/1997 0:00
+419,10679,Blondesddsl père et fils,Frédérique Citeaux,23/09/1997 0:00,30/09/1997 0:00
+420,10680,Old World Delicatessen,Rene Phillips,24/09/1997 0:00,26/09/1997 0:00
+421,10681,Great Lakes Food Market,Howard Snyder,25/09/1997 0:00,30/09/1997 0:00
+422,10682,Antonio Moreno Taquería,Juan,25/09/1997 0:00,01/10/1997 0:00
+423,10683,Du monde entier,Janine Labrune,26/09/1997 0:00,01/10/1997 0:00
+424,10684,Ottilies Käseladen,Henriette Pfalzheim,26/09/1997 0:00,30/09/1997 0:00
+425,10685,Gourmet Lanchonetes,André Fonseca,29/09/1997 0:00,03/10/1997 0:00
+426,10686,Piccolo und mehr,Georg Pipps,30/09/1997 0:00,08/10/1997 0:00
+427,10687,Hungry Owl All-Night Grocers,Patricia McKenna,30/09/1997 0:00,30/10/1997 0:00
+428,10688,Vaffeljernet,Palle Ibsen,01/10/1997 0:00,07/10/1997 0:00
+429,10689,Berglunds snabbköp,Christina Berglund,01/10/1997 0:00,07/10/1997 0:00
+430,10690,Hanari Carnes,Mario Pontes,02/10/1997 0:00,03/10/1997 0:00
+431,10691,QUICK-Stop,Horst Kloss,03/10/1997 0:00,22/10/1997 0:00
+432,10692,Alfreds Futterkiste,Maria Anders,03/10/1997 0:00,13/10/1997 0:00
+433,10693,White Clover Markets,Karl Jablonski,06/10/1997 0:00,10/10/1997 0:00
+434,10694,QUICK-Stop,Horst Kloss,06/10/1997 0:00,09/10/1997 0:00
+435,10695,Wilman Kala,Matti Karttunen,07/10/1997 0:00,14/10/1997 0:00
+436,10696,White Clover Markets,Karl Jablonski,08/10/1997 0:00,14/10/1997 0:00
+437,10697,LINO-Delicateses,Felipe Izquierdo,08/10/1997 0:00,14/10/1997 0:00
+438,10698,Ernst Handel,Roland Mendel,09/10/1997 0:00,17/10/1997 0:00
+439,10699,Morgenstern Gesundkost,Alexander Feuer,09/10/1997 0:00,13/10/1997 0:00
+440,10700,Save-a-lot Markets,Jose Pavarotti,10/10/1997 0:00,16/10/1997 0:00
+441,10701,Hungry Owl All-Night Grocers,Patricia McKenna,13/10/1997 0:00,15/10/1997 0:00
+442,10702,Alfreds Futterkiste,Maria Anders,13/10/1997 0:00,21/10/1997 0:00
+443,10703,Folk och fä HB,Maria Larsson,14/10/1997 0:00,20/10/1997 0:00
+444,10704,Queen Cozinha,Lúcia Carvalho,14/10/1997 0:00,07/11/1997 0:00
+445,10705,HILARION-Abastos,Carlos Hernández,15/10/1997 0:00,18/11/1997 0:00
+446,10706,Old World Delicatessen,Rene Phillips,16/10/1997 0:00,21/10/1997 0:00
+447,10707,Around the Horn,Thomas Hardy,16/10/1997 0:00,23/10/1997 0:00
+448,10708,The Big Cheese,Liz Nixon,17/10/1997 0:00,05/11/1997 0:00
+449,10709,Gourmet Lanchonetes,André Fonseca,17/10/1997 0:00,20/11/1997 0:00
+450,10710,Franchi S.p.A.,Paolo Accorti,20/10/1997 0:00,23/10/1997 0:00
+451,10711,Save-a-lot Markets,Jose Pavarotti,21/10/1997 0:00,29/10/1997 0:00
+452,10712,Hungry Owl All-Night Grocers,Patricia McKenna,21/10/1997 0:00,31/10/1997 0:00
+453,10713,Save-a-lot Markets,Jose Pavarotti,22/10/1997 0:00,24/10/1997 0:00
+454,10714,Save-a-lot Markets,Jose Pavarotti,22/10/1997 0:00,27/10/1997 0:00
+455,10715,Bon app',Laurence Lebihan,23/10/1997 0:00,29/10/1997 0:00
+456,10716,Rancho grande,Sergio Gutiérrez,24/10/1997 0:00,27/10/1997 0:00
+457,10717,Frankenversand,Peter Franken,24/10/1997 0:00,29/10/1997 0:00
+458,10718,Königlich Essen,Philip Cramer,27/10/1997 0:00,29/10/1997 0:00
+459,10719,Let's Stop N Shop,Jaime Yorres,27/10/1997 0:00,05/11/1997 0:00
+460,10720,Que Delícia,Bernardo Batista,28/10/1997 0:00,05/11/1997 0:00
+461,10721,QUICK-Stop,Horst Kloss,29/10/1997 0:00,31/10/1997 0:00
+462,10722,Save-a-lot Markets,Jose Pavarotti,29/10/1997 0:00,04/11/1997 0:00
+463,10723,White Clover Markets,Karl Jablonski,30/10/1997 0:00,25/11/1997 0:00
+464,10724,Mère Paillarde,Jean Fresnière,30/10/1997 0:00,05/11/1997 0:00
+465,10725,Familia Arquibaldo,Aria Cruz,31/10/1997 0:00,05/11/1997 0:00
+466,10726,Eastern Connection,Ann Devon,03/11/1997 0:00,05/12/1997 0:00
+467,10727,Reggiani Caseifici,Maurizio Moroni,03/11/1997 0:00,05/12/1997 0:00
+468,10728,Queen Cozinha,Lúcia Carvalho,04/11/1997 0:00,11/11/1997 0:00
+469,10729,LINO-Delicateses,Felipe Izquierdo,04/11/1997 0:00,14/11/1997 0:00
+470,10730,Bon app',Laurence Lebihan,05/11/1997 0:00,14/11/1997 0:00
+471,10731,Chop-suey Chinese,Yang Wang,06/11/1997 0:00,14/11/1997 0:00
+472,10732,Bon app',Laurence Lebihan,06/11/1997 0:00,07/11/1997 0:00
+473,10733,Berglunds snabbköp,Christina Berglund,07/11/1997 0:00,10/11/1997 0:00
+474,10734,Gourmet Lanchonetes,André Fonseca,07/11/1997 0:00,12/11/1997 0:00
+475,10735,Let's Stop N Shop,Jaime Yorres,10/11/1997 0:00,21/11/1997 0:00
+476,10736,Hungry Owl All-Night Grocers,Patricia McKenna,11/11/1997 0:00,21/11/1997 0:00
+477,10737,Vins et alcools Chevalier,Paul Henriot,11/11/1997 0:00,18/11/1997 0:00
+478,10738,Spécialités du monde,Dominique Perrier,12/11/1997 0:00,18/11/1997 0:00
+479,10739,Vins et alcools Chevalier,Paul Henriot,12/11/1997 0:00,17/11/1997 0:00
+480,10740,White Clover Markets,Karl Jablonski,13/11/1997 0:00,25/11/1997 0:00
+481,10741,Around the Horn,Thomas Hardy,14/11/1997 0:00,18/11/1997 0:00
+482,10742,Bottom-Dollar Markets,Elizabeth Lincoln,14/11/1997 0:00,18/11/1997 0:00
+483,10743,Around the Horn,Thomas Hardy,17/11/1997 0:00,21/11/1997 0:00
+484,10744,Vaffeljernet,Palle Ibsen,17/11/1997 0:00,24/11/1997 0:00
+485,10745,QUICK-Stop,Horst Kloss,18/11/1997 0:00,27/11/1997 0:00
+486,10746,Chop-suey Chinese,Yang Wang,19/11/1997 0:00,21/11/1997 0:00
+487,10747,Piccolo und mehr,Georg Pipps,19/11/1997 0:00,26/11/1997 0:00
+488,10748,Save-a-lot Markets,Jose Pavarotti,20/11/1997 0:00,28/11/1997 0:00
+489,10749,Island Trading,Helen Bennett,20/11/1997 0:00,19/12/1997 0:00
+490,10750,Wartian Herkku,Pirkko Koskitalo,21/11/1997 0:00,24/11/1997 0:00
+491,10751,Richter Supermarkt,Michael Holz,24/11/1997 0:00,03/12/1997 0:00
+492,10752,North/South,Simon Crowther,24/11/1997 0:00,28/11/1997 0:00
+493,10753,Franchi S.p.A.,Paolo Accorti,25/11/1997 0:00,27/11/1997 0:00
+494,10754,Magazzini Alimentari Riuniti,Giovanni Rovelli,25/11/1997 0:00,27/11/1997 0:00
+495,10755,Bon app',Laurence Lebihan,26/11/1997 0:00,28/11/1997 0:00
+496,10756,Split Rail Beer & Ale,Art Braunschweiger,27/11/1997 0:00,02/12/1997 0:00
+497,10757,Save-a-lot Markets,Jose Pavarotti,27/11/1997 0:00,15/12/1997 0:00
+498,10758,Richter Supermarkt,Michael Holz,28/11/1997 0:00,04/12/1997 0:00
+499,10759,Ana Trujillo Emparedados y helados,Juan,28/11/1997 0:00,12/12/1997 0:00
+500,10760,Maison Dewey,Catherine Dewey,01/12/1997 0:00,10/12/1997 0:00
+501,10761,Rattlesnake Canyon Grocery,Paula Wilson,02/12/1997 0:00,08/12/1997 0:00
+502,10762,Folk och fä HB,Maria Larsson,02/12/1997 0:00,09/12/1997 0:00
+503,10763,Folies gourmandes,Martine Rancé,03/12/1997 0:00,08/12/1997 0:00
+504,10764,Ernst Handel,Roland Mendel,03/12/1997 0:00,08/12/1997 0:00
+505,10765,QUICK-Stop,Horst Kloss,04/12/1997 0:00,09/12/1997 0:00
+506,10766,Ottilies Käseladen,Henriette Pfalzheim,05/12/1997 0:00,09/12/1997 0:00
+507,10767,Suprêmes délices,Pascale Cartrain,05/12/1997 0:00,15/12/1997 0:00
+508,10768,Around the Horn,Thomas Hardy,08/12/1997 0:00,15/12/1997 0:00
+509,10769,Vaffeljernet,Palle Ibsen,08/12/1997 0:00,12/12/1997 0:00
+510,10770,Hanari Carnes,Mario Pontes,09/12/1997 0:00,17/12/1997 0:00
+511,10771,Ernst Handel,Roland Mendel,10/12/1997 0:00,02/01/1998 0:00
+512,10772,Lehmanns Marktstand,Renate Messner,10/12/1997 0:00,19/12/1997 0:00
+513,10773,Ernst Handel,Roland Mendel,11/12/1997 0:00,16/12/1997 0:00
+514,10774,Folk och fä HB,Maria Larsson,11/12/1997 0:00,12/12/1997 0:00
+515,10775,The Cracker Box,Liu Wong,12/12/1997 0:00,26/12/1997 0:00
+516,10776,Ernst Handel,Roland Mendel,15/12/1997 0:00,18/12/1997 0:00
+517,10777,Gourmet Lanchonetes,André Fonseca,15/12/1997 0:00,21/01/1998 0:00
+518,10778,Berglunds snabbköp,Christina Berglund,16/12/1997 0:00,24/12/1997 0:00
+519,10779,Morgenstern Gesundkost,Alexander Feuer,16/12/1997 0:00,14/01/1998 0:00
+520,10780,LILA-Supermercado,Carlos González,16/12/1997 0:00,25/12/1997 0:00
+521,10781,Wartian Herkku,Pirkko Koskitalo,17/12/1997 0:00,19/12/1997 0:00
+522,10782,Cactus Comidas para llevar,Patricio Simpson,17/12/1997 0:00,22/12/1997 0:00
+523,10783,Hanari Carnes,Mario Pontes,18/12/1997 0:00,19/12/1997 0:00
+524,10784,Magazzini Alimentari Riuniti,Giovanni Rovelli,18/12/1997 0:00,22/12/1997 0:00
+525,10785,GROSELLA-Restaurante,Manuel Pereira,18/12/1997 0:00,24/12/1997 0:00
+526,10786,Queen Cozinha,Lúcia Carvalho,19/12/1997 0:00,23/12/1997 0:00
+527,10788,QUICK-Stop,Horst Kloss,22/12/1997 0:00,19/01/1998 0:00
+528,10789,Folies gourmandes,Martine Rancé,22/12/1997 0:00,31/12/1997 0:00
+529,10790,Gourmet Lanchonetes,André Fonseca,22/12/1997 0:00,26/12/1997 0:00
+530,10791,Frankenversand,Peter Franken,23/12/1997 0:00,01/01/1998 0:00
+531,10793,Around the Horn,Thomas Hardy,24/12/1997 0:00,08/01/1998 0:00
+532,10794,Que Delícia,Bernardo Batista,24/12/1997 0:00,02/01/1998 0:00
+533,10795,Ernst Handel,Roland Mendel,24/12/1997 0:00,20/01/1998 0:00
+534,10796,HILARION-Abastos,Carlos Hernández,25/12/1997 0:00,14/01/1998 0:00
+535,10797,Drachenblut Delikatessen,Sven Ottlieb,25/12/1997 0:00,05/01/1998 0:00
+536,10798,Island Trading,Helen Bennett,26/12/1997 0:00,05/01/1998 0:00
+537,10799,Königlich Essen,Philip Cramer,26/12/1997 0:00,05/01/1998 0:00
+538,10800,Seven Seas Imports,Hari Kumar,26/12/1997 0:00,05/01/1998 0:00
+539,10801,Bólido Comidas preparadas,Martín Sommer,29/12/1997 0:00,31/12/1997 0:00
+540,10802,Simons bistro,Jytte Petersen,29/12/1997 0:00,02/01/1998 0:00
+541,10803,Wellington Importadora,Paula Parente,30/12/1997 0:00,06/01/1998 0:00
+542,10804,Seven Seas Imports,Hari Kumar,30/12/1997 0:00,07/01/1998 0:00
+543,10805,The Big Cheese,Liz Nixon,30/12/1997 0:00,09/01/1998 0:00
+544,10806,Victuailles en stock,Mary Saveley,31/12/1997 0:00,05/01/1998 0:00
+545,10807,Franchi S.p.A.,Paolo Accorti,31/12/1997 0:00,30/01/1998 0:00
+546,10808,Old World Delicatessen,Rene Phillips,01/01/1998 0:00,09/01/1998 0:00
+547,10809,Wellington Importadora,Paula Parente,01/01/1998 0:00,07/01/1998 0:00
+548,10810,Laughing Bacchus Wine Cellars,Yoshi Tannamuri,01/01/1998 0:00,07/01/1998 0:00
+549,10811,LINO-Delicateses,Felipe Izquierdo,02/01/1998 0:00,08/01/1998 0:00
+550,10812,Reggiani Caseifici,Maurizio Moroni,02/01/1998 0:00,12/01/1998 0:00
+551,10813,Ricardo Adocicados,Janete Limeira,05/01/1998 0:00,09/01/1998 0:00
+552,10814,Victuailles en stock,Mary Saveley,05/01/1998 0:00,14/01/1998 0:00
+553,10815,Save-a-lot Markets,Jose Pavarotti,05/01/1998 0:00,14/01/1998 0:00
+554,10816,Great Lakes Food Market,Howard Snyder,06/01/1998 0:00,04/02/1998 0:00
+555,10817,Königlich Essen,Philip Cramer,06/01/1998 0:00,13/01/1998 0:00
+556,10818,Magazzini Alimentari Riuniti,Giovanni Rovelli,07/01/1998 0:00,12/01/1998 0:00
+557,10819,Cactus Comidas para llevar,Patricio Simpson,07/01/1998 0:00,16/01/1998 0:00
+558,10820,Rattlesnake Canyon Grocery,Paula Wilson,07/01/1998 0:00,13/01/1998 0:00
+559,10821,Split Rail Beer & Ale,Art Braunschweiger,08/01/1998 0:00,15/01/1998 0:00
+560,10822,Trail's Head Gourmet Provisioners,Helvetius Nagy,08/01/1998 0:00,16/01/1998 0:00
+561,10823,LILA-Supermercado,Carlos González,09/01/1998 0:00,13/01/1998 0:00
+562,10824,Folk och fä HB,Maria Larsson,09/01/1998 0:00,30/01/1998 0:00
+563,10825,Drachenblut Delikatessen,Sven Ottlieb,09/01/1998 0:00,14/01/1998 0:00
+564,10826,Blondesddsl père et fils,Frédérique Citeaux,12/01/1998 0:00,06/02/1998 0:00
+565,10827,Bon app',Laurence Lebihan,12/01/1998 0:00,06/02/1998 0:00
+566,10828,Rancho grande,Sergio Gutiérrez,13/01/1998 0:00,04/02/1998 0:00
+567,10829,Island Trading,Helen Bennett,13/01/1998 0:00,23/01/1998 0:00
+568,10830,Tradição Hipermercados,Anabela Domingues,13/01/1998 0:00,21/01/1998 0:00
+569,10831,Santé Gourmet,Jonas Bergulfsen,14/01/1998 0:00,23/01/1998 0:00
+570,10833,Ottilies Käseladen,Henriette Pfalzheim,15/01/1998 0:00,23/01/1998 0:00
+571,10834,Tradição Hipermercados,Anabela Domingues,15/01/1998 0:00,19/01/1998 0:00
+572,10835,Alfreds Futterkiste,Maria Anders,15/01/1998 0:00,21/01/1998 0:00
+573,10836,Ernst Handel,Roland Mendel,16/01/1998 0:00,21/01/1998 0:00
+574,10837,Berglunds snabbköp,Christina Berglund,16/01/1998 0:00,23/01/1998 0:00
+575,10838,LINO-Delicateses,Felipe Izquierdo,19/01/1998 0:00,23/01/1998 0:00
+576,10839,Tradição Hipermercados,Anabela Domingues,19/01/1998 0:00,22/01/1998 0:00
+577,10840,LINO-Delicateses,Felipe Izquierdo,19/01/1998 0:00,16/02/1998 0:00
+578,10841,Suprêmes délices,Pascale Cartrain,20/01/1998 0:00,29/01/1998 0:00
+579,10842,Tortuga Restaurante,Juan,20/01/1998 0:00,29/01/1998 0:00
+580,10843,Victuailles en stock,Mary Saveley,21/01/1998 0:00,26/01/1998 0:00
+581,10844,Piccolo und mehr,Georg Pipps,21/01/1998 0:00,26/01/1998 0:00
+582,10845,QUICK-Stop,Horst Kloss,21/01/1998 0:00,30/01/1998 0:00
+583,10846,Suprêmes délices,Pascale Cartrain,22/01/1998 0:00,23/01/1998 0:00
+584,10847,Save-a-lot Markets,Jose Pavarotti,22/01/1998 0:00,10/02/1998 0:00
+585,10848,Consolidated Holdings,Elizabeth Brown,23/01/1998 0:00,29/01/1998 0:00
+586,10849,Königlich Essen,Philip Cramer,23/01/1998 0:00,30/01/1998 0:00
+587,10850,Victuailles en stock,Mary Saveley,23/01/1998 0:00,30/01/1998 0:00
+588,10851,Ricardo Adocicados,Janete Limeira,26/01/1998 0:00,02/02/1998 0:00
+589,10852,Rattlesnake Canyon Grocery,Paula Wilson,26/01/1998 0:00,30/01/1998 0:00
+590,10853,Blauer See Delikatessen,Hanna Moos,27/01/1998 0:00,03/02/1998 0:00
+591,10854,Ernst Handel,Roland Mendel,27/01/1998 0:00,05/02/1998 0:00
+592,10855,Old World Delicatessen,Rene Phillips,27/01/1998 0:00,04/02/1998 0:00
+593,10856,Antonio Moreno Taquería,Juan,28/01/1998 0:00,10/02/1998 0:00
+594,10857,Berglunds snabbköp,Christina Berglund,28/01/1998 0:00,06/02/1998 0:00
+595,10858,La corne d'abondance,Daniel Tonini,29/01/1998 0:00,03/02/1998 0:00
+596,10859,Frankenversand,Peter Franken,29/01/1998 0:00,02/02/1998 0:00
+597,10860,France restauration,Carine Schmitt,29/01/1998 0:00,04/02/1998 0:00
+598,10861,White Clover Markets,Karl Jablonski,30/01/1998 0:00,17/02/1998 0:00
+599,10862,Lehmanns Marktstand,Renate Messner,30/01/1998 0:00,02/02/1998 0:00
+600,10863,HILARION-Abastos,Carlos Hernández,02/02/1998 0:00,17/02/1998 0:00
+601,10864,Around the Horn,Thomas Hardy,02/02/1998 0:00,09/02/1998 0:00
+602,10865,QUICK-Stop,Horst Kloss,02/02/1998 0:00,12/02/1998 0:00
+603,10866,Berglunds snabbköp,Christina Berglund,03/02/1998 0:00,12/02/1998 0:00
+604,10867,Lonesome Pine Restaurant,Fran Wilson,03/02/1998 0:00,11/02/1998 0:00
+605,10868,Queen Cozinha,Lúcia Carvalho,04/02/1998 0:00,23/02/1998 0:00
+606,10869,Seven Seas Imports,Hari Kumar,04/02/1998 0:00,09/02/1998 0:00
+607,10871,Bon app',Laurence Lebihan,05/02/1998 0:00,10/02/1998 0:00
+608,10872,Godos Cocina Típica,José Pedro Freyre,05/02/1998 0:00,09/02/1998 0:00
+609,10873,Wilman Kala,Matti Karttunen,06/02/1998 0:00,09/02/1998 0:00
+610,10874,Godos Cocina Típica,José Pedro Freyre,06/02/1998 0:00,11/02/1998 0:00
+611,10875,Berglunds snabbköp,Christina Berglund,06/02/1998 0:00,03/03/1998 0:00
+612,10876,Bon app',Laurence Lebihan,09/02/1998 0:00,12/02/1998 0:00
+613,10877,Ricardo Adocicados,Janete Limeira,09/02/1998 0:00,19/02/1998 0:00
+614,10878,QUICK-Stop,Horst Kloss,10/02/1998 0:00,12/02/1998 0:00
+615,10879,Wilman Kala,Matti Karttunen,10/02/1998 0:00,12/02/1998 0:00
+616,10880,Folk och fä HB,Maria Larsson,10/02/1998 0:00,18/02/1998 0:00
+617,10881,Cactus Comidas para llevar,Patricio Simpson,11/02/1998 0:00,18/02/1998 0:00
+618,10882,Save-a-lot Markets,Jose Pavarotti,11/02/1998 0:00,20/02/1998 0:00
+619,10883,Lonesome Pine Restaurant,Fran Wilson,12/02/1998 0:00,20/02/1998 0:00
+620,10884,Let's Stop N Shop,Jaime Yorres,12/02/1998 0:00,13/02/1998 0:00
+621,10885,Suprêmes délices,Pascale Cartrain,12/02/1998 0:00,18/02/1998 0:00
+622,10886,Hanari Carnes,Mario Pontes,13/02/1998 0:00,02/03/1998 0:00
+623,10887,Galería del gastrónomo,Eduardo Saavedra,13/02/1998 0:00,16/02/1998 0:00
+624,10888,Godos Cocina Típica,José Pedro Freyre,16/02/1998 0:00,23/02/1998 0:00
+625,10889,Rattlesnake Canyon Grocery,Paula Wilson,16/02/1998 0:00,23/02/1998 0:00
+626,10890,Du monde entier,Janine Labrune,16/02/1998 0:00,18/02/1998 0:00
+627,10891,Lehmanns Marktstand,Renate Messner,17/02/1998 0:00,19/02/1998 0:00
+628,10892,Maison Dewey,Catherine Dewey,17/02/1998 0:00,19/02/1998 0:00
+629,10893,Königlich Essen,Philip Cramer,18/02/1998 0:00,20/02/1998 0:00
+630,10894,Save-a-lot Markets,Jose Pavarotti,18/02/1998 0:00,20/02/1998 0:00
+631,10895,Ernst Handel,Roland Mendel,18/02/1998 0:00,23/02/1998 0:00
+632,10896,Maison Dewey,Catherine Dewey,19/02/1998 0:00,27/02/1998 0:00
+633,10897,Hungry Owl All-Night Grocers,Patricia McKenna,19/02/1998 0:00,25/02/1998 0:00
+634,10898,Océano Atlántico Ltda.,Yvonne Moncada,20/02/1998 0:00,06/03/1998 0:00
+635,10899,LILA-Supermercado,Carlos González,20/02/1998 0:00,26/02/1998 0:00
+636,10900,Wellington Importadora,Paula Parente,20/02/1998 0:00,04/03/1998 0:00
+637,10901,HILARION-Abastos,Carlos Hernández,23/02/1998 0:00,26/02/1998 0:00
+638,10902,Folk och fä HB,Maria Larsson,23/02/1998 0:00,03/03/1998 0:00
+639,10903,Hanari Carnes,Mario Pontes,24/02/1998 0:00,04/03/1998 0:00
+640,10904,White Clover Markets,Karl Jablonski,24/02/1998 0:00,27/02/1998 0:00
+641,10905,Wellington Importadora,Paula Parente,24/02/1998 0:00,06/03/1998 0:00
+642,10907,Spécialités du monde,Dominique Perrier,25/02/1998 0:00,27/02/1998 0:00
+643,10908,Reggiani Caseifici,Maurizio Moroni,26/02/1998 0:00,06/03/1998 0:00
+644,10909,Santé Gourmet,Jonas Bergulfsen,26/02/1998 0:00,10/03/1998 0:00
+645,10910,Wilman Kala,Matti Karttunen,26/02/1998 0:00,04/03/1998 0:00
+646,10911,Godos Cocina Típica,José Pedro Freyre,26/02/1998 0:00,05/03/1998 0:00
+647,10912,Hungry Owl All-Night Grocers,Patricia McKenna,26/02/1998 0:00,18/03/1998 0:00
+648,10913,Queen Cozinha,Lúcia Carvalho,26/02/1998 0:00,04/03/1998 0:00
+649,10914,Queen Cozinha,Lúcia Carvalho,27/02/1998 0:00,02/03/1998 0:00
+650,10915,Tortuga Restaurante,Juan,27/02/1998 0:00,02/03/1998 0:00
+651,10916,Rancho grande,Sergio Gutiérrez,27/02/1998 0:00,09/03/1998 0:00
+652,10917,Romero y tomillo,Alejandra Camino,02/03/1998 0:00,11/03/1998 0:00
+653,10918,Bottom-Dollar Markets,Elizabeth Lincoln,02/03/1998 0:00,11/03/1998 0:00
+654,10919,LINO-Delicateses,Felipe Izquierdo,02/03/1998 0:00,04/03/1998 0:00
+655,10920,Around the Horn,Thomas Hardy,03/03/1998 0:00,09/03/1998 0:00
+656,10921,Vaffeljernet,Palle Ibsen,03/03/1998 0:00,09/03/1998 0:00
+657,10922,Hanari Carnes,Mario Pontes,03/03/1998 0:00,05/03/1998 0:00
+658,10924,Berglunds snabbköp,Christina Berglund,04/03/1998 0:00,08/04/1998 0:00
+659,10925,Hanari Carnes,Mario Pontes,04/03/1998 0:00,13/03/1998 0:00
+660,10926,Ana Trujillo Emparedados y helados,Juan,04/03/1998 0:00,11/03/1998 0:00
+661,10927,La corne d'abondance,Daniel Tonini,05/03/1998 0:00,08/04/1998 0:00
+662,10928,Galería del gastrónomo,Eduardo Saavedra,05/03/1998 0:00,18/03/1998 0:00
+663,10929,Frankenversand,Peter Franken,05/03/1998 0:00,12/03/1998 0:00
+664,10930,Suprêmes délices,Pascale Cartrain,06/03/1998 0:00,18/03/1998 0:00
+665,10931,Richter Supermarkt,Michael Holz,06/03/1998 0:00,19/03/1998 0:00
+666,10932,Bon app',Laurence Lebihan,06/03/1998 0:00,24/03/1998 0:00
+667,10933,Island Trading,Helen Bennett,06/03/1998 0:00,16/03/1998 0:00
+668,10934,Lehmanns Marktstand,Renate Messner,09/03/1998 0:00,12/03/1998 0:00
+669,10935,Wellington Importadora,Paula Parente,09/03/1998 0:00,18/03/1998 0:00
+670,10936,Great Lakes Food Market,Howard Snyder,09/03/1998 0:00,18/03/1998 0:00
+671,10937,Cactus Comidas para llevar,Patricio Simpson,10/03/1998 0:00,13/03/1998 0:00
+672,10938,QUICK-Stop,Horst Kloss,10/03/1998 0:00,16/03/1998 0:00
+673,10939,Magazzini Alimentari Riuniti,Giovanni Rovelli,10/03/1998 0:00,13/03/1998 0:00
+674,10940,Bon app',Laurence Lebihan,11/03/1998 0:00,23/03/1998 0:00
+675,10941,Save-a-lot Markets,Jose Pavarotti,11/03/1998 0:00,20/03/1998 0:00
+676,10942,Reggiani Caseifici,Maurizio Moroni,11/03/1998 0:00,18/03/1998 0:00
+677,10943,B's Beverages,Victoria Ashworth,11/03/1998 0:00,19/03/1998 0:00
+678,10944,Bottom-Dollar Markets,Elizabeth Lincoln,12/03/1998 0:00,13/03/1998 0:00
+679,10945,Morgenstern Gesundkost,Alexander Feuer,12/03/1998 0:00,18/03/1998 0:00
+680,10946,Vaffeljernet,Palle Ibsen,12/03/1998 0:00,19/03/1998 0:00
+681,10947,B's Beverages,Victoria Ashworth,13/03/1998 0:00,16/03/1998 0:00
+682,10948,Godos Cocina Típica,José Pedro Freyre,13/03/1998 0:00,19/03/1998 0:00
+683,10949,Bottom-Dollar Markets,Elizabeth Lincoln,13/03/1998 0:00,17/03/1998 0:00
+684,10950,Magazzini Alimentari Riuniti,Giovanni Rovelli,16/03/1998 0:00,23/03/1998 0:00
+685,10951,Richter Supermarkt,Michael Holz,16/03/1998 0:00,07/04/1998 0:00
+686,10952,Alfreds Futterkiste,Maria Anders,16/03/1998 0:00,24/03/1998 0:00
+687,10953,Around the Horn,Thomas Hardy,16/03/1998 0:00,25/03/1998 0:00
+688,10954,LINO-Delicateses,Felipe Izquierdo,17/03/1998 0:00,20/03/1998 0:00
+689,10955,Folk och fä HB,Maria Larsson,17/03/1998 0:00,20/03/1998 0:00
+690,10956,Blauer See Delikatessen,Hanna Moos,17/03/1998 0:00,20/03/1998 0:00
+691,10957,HILARION-Abastos,Carlos Hernández,18/03/1998 0:00,27/03/1998 0:00
+692,10958,Océano Atlántico Ltda.,Yvonne Moncada,18/03/1998 0:00,27/03/1998 0:00
+693,10959,Gourmet Lanchonetes,André Fonseca,18/03/1998 0:00,23/03/1998 0:00
+694,10960,HILARION-Abastos,Carlos Hernández,19/03/1998 0:00,08/04/1998 0:00
+695,10961,Queen Cozinha,Lúcia Carvalho,19/03/1998 0:00,30/03/1998 0:00
+696,10962,QUICK-Stop,Horst Kloss,19/03/1998 0:00,23/03/1998 0:00
+697,10963,Furia Bacalhau e Frutos do Mar,Lino Rodriguez,19/03/1998 0:00,26/03/1998 0:00
+698,10964,Spécialités du monde,Dominique Perrier,20/03/1998 0:00,24/03/1998 0:00
+699,10965,Old World Delicatessen,Rene Phillips,20/03/1998 0:00,30/03/1998 0:00
+700,10966,Chop-suey Chinese,Yang Wang,20/03/1998 0:00,08/04/1998 0:00
+701,10967,Toms Spezialitäten,Karin Josephs,23/03/1998 0:00,02/04/1998 0:00
+702,10968,Ernst Handel,Roland Mendel,23/03/1998 0:00,01/04/1998 0:00
+703,10969,Comércio Mineiro,Pedro Afonso,23/03/1998 0:00,30/03/1998 0:00
+704,10970,Bólido Comidas preparadas,Martín Sommer,24/03/1998 0:00,24/04/1998 0:00
+705,10971,France restauration,Carine Schmitt,24/03/1998 0:00,02/04/1998 0:00
+706,10972,La corne d'abondance,Daniel Tonini,24/03/1998 0:00,26/03/1998 0:00
+707,10973,La corne d'abondance,Daniel Tonini,24/03/1998 0:00,27/03/1998 0:00
+708,10974,Split Rail Beer & Ale,Art Braunschweiger,25/03/1998 0:00,03/04/1998 0:00
+709,10975,Bottom-Dollar Markets,Elizabeth Lincoln,25/03/1998 0:00,27/03/1998 0:00
+710,10976,HILARION-Abastos,Carlos Hernández,25/03/1998 0:00,03/04/1998 0:00
+711,10977,Folk och fä HB,Maria Larsson,26/03/1998 0:00,10/04/1998 0:00
+712,10978,Maison Dewey,Catherine Dewey,26/03/1998 0:00,23/04/1998 0:00
+713,10979,Ernst Handel,Roland Mendel,26/03/1998 0:00,31/03/1998 0:00
+714,10980,Folk och fä HB,Maria Larsson,27/03/1998 0:00,17/04/1998 0:00
+715,10981,Hanari Carnes,Mario Pontes,27/03/1998 0:00,02/04/1998 0:00
+716,10982,Bottom-Dollar Markets,Elizabeth Lincoln,27/03/1998 0:00,08/04/1998 0:00
+717,10983,Save-a-lot Markets,Jose Pavarotti,27/03/1998 0:00,06/04/1998 0:00
+718,10984,Save-a-lot Markets,Jose Pavarotti,30/03/1998 0:00,03/04/1998 0:00
+719,10985,Hungry Owl All-Night Grocers,Patricia McKenna,30/03/1998 0:00,02/04/1998 0:00
+720,10986,Océano Atlántico Ltda.,Yvonne Moncada,30/03/1998 0:00,21/04/1998 0:00
+721,10987,Eastern Connection,Ann Devon,31/03/1998 0:00,06/04/1998 0:00
+722,10988,Rattlesnake Canyon Grocery,Paula Wilson,31/03/1998 0:00,10/04/1998 0:00
+723,10989,Que Delícia,Bernardo Batista,31/03/1998 0:00,02/04/1998 0:00
+724,10990,Ernst Handel,Roland Mendel,01/04/1998 0:00,07/04/1998 0:00
+725,10991,QUICK-Stop,Horst Kloss,01/04/1998 0:00,07/04/1998 0:00
+726,10992,The Big Cheese,Liz Nixon,01/04/1998 0:00,03/04/1998 0:00
+727,10993,Folk och fä HB,Maria Larsson,01/04/1998 0:00,10/04/1998 0:00
+728,10994,Vaffeljernet,Palle Ibsen,02/04/1998 0:00,09/04/1998 0:00
+729,10995,Pericles Comidas clásicas,Juan,02/04/1998 0:00,06/04/1998 0:00
+730,10996,QUICK-Stop,Horst Kloss,02/04/1998 0:00,10/04/1998 0:00
+731,10997,LILA-Supermercado,Carlos González,03/04/1998 0:00,13/04/1998 0:00
+732,10999,Ottilies Käseladen,Henriette Pfalzheim,03/04/1998 0:00,10/04/1998 0:00
+733,11000,Rattlesnake Canyon Grocery,Paula Wilson,06/04/1998 0:00,14/04/1998 0:00
+734,11001,Folk och fä HB,Maria Larsson,06/04/1998 0:00,14/04/1998 0:00
+735,11002,Save-a-lot Markets,Jose Pavarotti,06/04/1998 0:00,16/04/1998 0:00
+736,11003,The Cracker Box,Liu Wong,06/04/1998 0:00,08/04/1998 0:00
+737,11004,Maison Dewey,Catherine Dewey,07/04/1998 0:00,20/04/1998 0:00
+738,11005,Wilman Kala,Matti Karttunen,07/04/1998 0:00,10/04/1998 0:00
+739,11006,Great Lakes Food Market,Howard Snyder,07/04/1998 0:00,15/04/1998 0:00
+740,11007,Princesa Isabel Vinhos,Isabel de Castro,08/04/1998 0:00,13/04/1998 0:00
+741,11008,Ernst Handel,Roland Mendel,08/04/1998 0:00,
+742,11009,Godos Cocina Típica,José Pedro Freyre,08/04/1998 0:00,10/04/1998 0:00
+743,11010,Reggiani Caseifici,Maurizio Moroni,09/04/1998 0:00,21/04/1998 0:00
+744,11011,Alfreds Futterkiste,Maria Anders,09/04/1998 0:00,13/04/1998 0:00
+745,11012,Frankenversand,Peter Franken,09/04/1998 0:00,17/04/1998 0:00
+746,11013,Romero y tomillo,Alejandra Camino,09/04/1998 0:00,10/04/1998 0:00
+747,11014,LINO-Delicateses,Felipe Izquierdo,10/04/1998 0:00,15/04/1998 0:00
+748,11015,Santé Gourmet,Jonas Bergulfsen,10/04/1998 0:00,20/04/1998 0:00
+749,11016,Around the Horn,Thomas Hardy,10/04/1998 0:00,13/04/1998 0:00
+750,11017,Ernst Handel,Roland Mendel,13/04/1998 0:00,20/04/1998 0:00
+751,11018,Lonesome Pine Restaurant,Fran Wilson,13/04/1998 0:00,16/04/1998 0:00
+752,11019,Rancho grande,Sergio Gutiérrez,13/04/1998 0:00,
+753,11020,Ottilies Käseladen,Henriette Pfalzheim,14/04/1998 0:00,16/04/1998 0:00
+754,11021,QUICK-Stop,Horst Kloss,14/04/1998 0:00,21/04/1998 0:00
+755,11022,Hanari Carnes,Mario Pontes,14/04/1998 0:00,04/05/1998 0:00
+756,11023,B's Beverages,Victoria Ashworth,14/04/1998 0:00,24/04/1998 0:00
+757,11024,Eastern Connection,Ann Devon,15/04/1998 0:00,20/04/1998 0:00
+758,11025,Wartian Herkku,Pirkko Koskitalo,15/04/1998 0:00,24/04/1998 0:00
+759,11026,Franchi S.p.A.,Paolo Accorti,15/04/1998 0:00,28/04/1998 0:00
+760,11027,Bottom-Dollar Markets,Elizabeth Lincoln,16/04/1998 0:00,20/04/1998 0:00
+761,11028,Königlich Essen,Philip Cramer,16/04/1998 0:00,22/04/1998 0:00
+762,11029,Chop-suey Chinese,Yang Wang,16/04/1998 0:00,27/04/1998 0:00
+763,11030,Save-a-lot Markets,Jose Pavarotti,17/04/1998 0:00,27/04/1998 0:00
+764,11031,Save-a-lot Markets,Jose Pavarotti,17/04/1998 0:00,24/04/1998 0:00
+765,11032,White Clover Markets,Karl Jablonski,17/04/1998 0:00,23/04/1998 0:00
+766,11033,Richter Supermarkt,Michael Holz,17/04/1998 0:00,23/04/1998 0:00
+767,11034,Old World Delicatessen,Rene Phillips,20/04/1998 0:00,27/04/1998 0:00
+768,11035,Suprêmes délices,Pascale Cartrain,20/04/1998 0:00,24/04/1998 0:00
+769,11036,Drachenblut Delikatessen,Sven Ottlieb,20/04/1998 0:00,22/04/1998 0:00
+770,11037,Godos Cocina Típica,José Pedro Freyre,21/04/1998 0:00,27/04/1998 0:00
+771,11038,Suprêmes délices,Pascale Cartrain,21/04/1998 0:00,30/04/1998 0:00
+772,11039,LINO-Delicateses,Felipe Izquierdo,21/04/1998 0:00,
+773,11040,Great Lakes Food Market,Howard Snyder,22/04/1998 0:00,
+774,11041,Chop-suey Chinese,Yang Wang,22/04/1998 0:00,28/04/1998 0:00
+775,11042,Comércio Mineiro,Pedro Afonso,22/04/1998 0:00,01/05/1998 0:00
+776,11043,Spécialités du monde,Dominique Perrier,22/04/1998 0:00,29/04/1998 0:00
+777,11045,Bottom-Dollar Markets,Elizabeth Lincoln,23/04/1998 0:00,
+778,11046,Die Wandernde Kuh,Rita Müller,23/04/1998 0:00,24/04/1998 0:00
+779,11047,Eastern Connection,Ann Devon,24/04/1998 0:00,01/05/1998 0:00
+780,11048,Bottom-Dollar Markets,Elizabeth Lincoln,24/04/1998 0:00,30/04/1998 0:00
+781,11049,Gourmet Lanchonetes,André Fonseca,24/04/1998 0:00,04/05/1998 0:00
+782,11050,Folk och fä HB,Maria Larsson,27/04/1998 0:00,05/05/1998 0:00
+783,11052,Hanari Carnes,Mario Pontes,27/04/1998 0:00,01/05/1998 0:00
+784,11053,Piccolo und mehr,Georg Pipps,27/04/1998 0:00,29/04/1998 0:00
+785,11054,Cactus Comidas para llevar,Patricio Simpson,28/04/1998 0:00,
+786,11055,HILARION-Abastos,Carlos Hernández,28/04/1998 0:00,05/05/1998 0:00
+787,11056,Eastern Connection,Ann Devon,28/04/1998 0:00,01/05/1998 0:00
+788,11057,North/South,Simon Crowther,29/04/1998 0:00,01/05/1998 0:00
+789,11058,Blauer See Delikatessen,Hanna Moos,29/04/1998 0:00,
+790,11059,Ricardo Adocicados,Janete Limeira,29/04/1998 0:00,
+791,11060,Franchi S.p.A.,Paolo Accorti,30/04/1998 0:00,04/05/1998 0:00
+792,11061,Great Lakes Food Market,Howard Snyder,30/04/1998 0:00,
+793,11062,Reggiani Caseifici,Maurizio Moroni,30/04/1998 0:00,
+794,11063,Hungry Owl All-Night Grocers,Patricia McKenna,30/04/1998 0:00,06/05/1998 0:00
+795,11064,Save-a-lot Markets,Jose Pavarotti,01/05/1998 0:00,04/05/1998 0:00
+796,11065,LILA-Supermercado,Carlos González,01/05/1998 0:00,
+797,11066,White Clover Markets,Karl Jablonski,01/05/1998 0:00,04/05/1998 0:00
+798,11067,Drachenblut Delikatessen,Sven Ottlieb,04/05/1998 0:00,06/05/1998 0:00
+799,11068,Queen Cozinha,Lúcia Carvalho,04/05/1998 0:00,
+800,11069,Tortuga Restaurante,Juan,04/05/1998 0:00,06/05/1998 0:00
+801,11070,Lehmanns Marktstand,Renate Messner,05/05/1998 0:00,
+802,11071,LILA-Supermercado,Carlos González,05/05/1998 0:00,
+803,11072,Ernst Handel,Roland Mendel,05/05/1998 0:00,
+804,11073,Pericles Comidas clásicas,Juan,05/05/1998 0:00,
+805,11074,Simons bistro,Jytte Petersen,06/05/1998 0:00,
+806,11075,Richter Supermarkt,Michael Holz,06/05/1998 0:00,
+807,11076,Bon app',Laurence Lebihan,06/05/1998 0:00,
+808,11077,Rattlesnake Canyon Grocery,Paula Wilson,06/05/1998 0:00,
